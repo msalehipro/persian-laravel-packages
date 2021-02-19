@@ -17,7 +17,7 @@ Telegram: [t.me/ghambale](https://t.me/ghambale)
 * [Laravel-JDF](https://github.com/hatamiarash7/Laravel-JDF) --> It's a simple library to use Persian timestamps in Laravel ( 5.5+ / 6 / 7 )
 * [Laravel JDate](https://github.com/mastani/laravel-jdate) --> Date converter from Jalali to Georgian and vice versa.
 * [IDPay payment gateway for Laravel](https://github.com/mastani/laravel-idpay) --> IDPay gateway in Laravel.
-* [Laravel ReCAPTCHA v3](https://github.com/mastani/laravel-recaptcha) --> Simple and painless Google reCAPTCHA package for Laravel 5.
+* [Verta](https://github.com/hekmatinasser/verta) --> تاریخ شمسی برای لاراول 5 , 6 , 7 , 8
 * [Sorna SMS Laravel package](https://github.com/mastani/laravel-sorna-sms) --> Sorna SMS laravel client.
 * [Laravel Nova Persian Datepicker](https://github.com/mustafaaloko/nova-persian-datepicker) --> Persian Datepicker for Laravel Nova.
 * [Laravel Persian](https://github.com/Abolfazl-Talebi/laravel6-persian-lang) --> ترجمه زبان فارسی برای لاراول
