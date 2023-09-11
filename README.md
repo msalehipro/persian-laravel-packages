@@ -5,7 +5,7 @@
 
 Email: msalehipro [at] gmail [dot] com
 
-Telegram: [t.me/ghambale](https://t.me/ghambale)
+Telegram: [t.me/msalehipro](https://t.me/msalehipro)
 
 ---
 * [Google Static Map Generator](https://github.com/mastani/laravel-google-static-map) --> Generate static map using Google Map API in Laravel.
